@@ -7,6 +7,13 @@
     <title></title>
 </head>
 <body>
+    <h1>Vinnie's Adequate Recipes</h1>
+    <p>Made with 5 ingredients only!</p>
+
+<a href="./HW6/Default.aspx">Home</a>
+<a href="./HW6/NewRecipe.aspx">New Recipe</a>
+<a href="./HW6/AboutUs.aspx">About Us</a>
+<a href="./HW6/ContactUs.aspx">Contact Us</a>
     <form id="form1" runat="server">
     <div>
     
